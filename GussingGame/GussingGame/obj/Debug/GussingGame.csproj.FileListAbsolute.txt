@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GussingGame\GussingGame\bin\Debug\GussingGame.exe.config
+C:\Users\PC\source\repos\GussingGame\GussingGame\bin\Debug\GussingGame.exe
+C:\Users\PC\source\repos\GussingGame\GussingGame\bin\Debug\GussingGame.pdb
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.Form1.resources
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.Properties.Resources.resources
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.exe
+C:\Users\PC\source\repos\GussingGame\GussingGame\obj\Debug\GussingGame.pdb
